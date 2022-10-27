@@ -1,4 +1,6 @@
+Data Cleaning
+
 This includes:
-Collecting Data Using APIs
-Collecting Data Using Webscraping
+Collecting Data Using APIs,
+Collecting Data Using Webscraping,
 Exploring Data
