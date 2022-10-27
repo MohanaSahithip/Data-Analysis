@@ -1,4 +1,4 @@
-Data Cleaning
+Data Collection
 
 This includes:
 Collecting Data Using APIs,
